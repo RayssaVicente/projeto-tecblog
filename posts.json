@@ -1,0 +1,55 @@
+[
+    {
+        "titulo": "TJR Nacional 2022 Conquista do Primiero Lugar",
+        "data": "21 dezembro 2025",
+        "imagem_principal": "imagens/premiacao-2023.jpeg",
+        "sobre_breve": "Equipe Olimpo conquista o primeiro lugar em desafio de resgate de alto risco pela primeira vez.",
+        "objetivo": "Desenvolver um robô autônomo capaz de navegar em terrenos irregulares e identificar vítimas.",
+        "conteudo_completo": "A competição foi intensa e exigiu superação. Durante três dias, nossa equipe focou em ajustes finos na programação dos sensores de segue-linha para superar os desafios técnicos da pista. O robô precisava subir rampas com inclinação de 30 graus, desviar de obstáculos móveis e executar o resgate preciso da vítima. No último round, alcançamos a pontuação máxima, garantindo o troféu para a Olimpo.",
+        "fotos_galeria": [
+            "imagens/premiacao-2023.jpeg",
+            "imagens/robo-tjr-2023.jpeg",
+            "imagens/criacao-programacao-2023.jpeg"
+        ],
+        "conteudo_complementar": "O robô foi totalmente construído utilizando o kit alemão Fischertechnik de 2014, um sistema clássico e robusto de engenharia. Nas imagens abaixo, você confere os bastidores da montagem, os momentos decisivos da calibragem dos sensores antes da largada e a celebração da nossa equipe na premiação."
+    },
+    {
+        "titulo": "TJR Estadual 2023 Conquita do Segundo lugar",
+        "data": "21 dezembro 2025",
+        "imagem_principal": "imagens/premiacao-2024-estuadual.jpeg",
+        "sobre_breve": "Equipe Olimpo conquista o segundo lugar em duas modalides na TJR.",
+        "objetivo": "Desenvolver dois robôs autônomo capaz de navegar em terrenos divergentes e resgatar vítimas.",
+        "conteudo_completo": "A Equipe Olimpo competiu em duas modalidades na TJR: Resgate de Alto Risco e Resgate no Plano. Saímos vitoriosos com a medalha de segundo lugar em ambas as categorias. Além desses resultados, conquistando a vaga para a TJR Chile no próximo ano e levando nossa robótica ao nível internacional.",
+        "fotos_galeria": [
+            "imagens/robo-tjr-2023.jpeg",
+            "imagens/robo-tjr-2024.jpeg"
+        ],
+        "conteudo_complementar": "As imagens a seguir detalham a construção dos nossos robôs. O robô de Resgate de Alto Risco que foi desenvolvidos com o kit alemão Fischertechnik. Já para a modalidade de Resgate no Plano, utilizamos o kit EST, uma réplica do LEGO EV3. As fotos mostram o processo de montagem e a calibragem dos sensores antes da competição.."
+    },
+    {
+        "titulo": "TJR Internacional 2024 Conquita do Primeiro lugar",
+        "data": "21 dezembro 2025",
+        "imagem_principal": "imagens/premiação-2024-chile.jpeg",
+        "sobre_breve": "Equipe Olimpo conquista o primeiro lugar em duas modalides na TJR internacional.",
+        "objetivo": "Desenvolver dois robôs autônomo capaz de navegar em terrenos divergentes e resgatar vítimas.",
+        "conteudo_completo": "A Equipe Olimpo competiu em duas modalidades na TJR: Resgate de Alto Risco e Resgate no Plano. Saímos vitoriosos com a medalha de primeiro lugar em ambas as categorias. Além desses resultados, conquistando a vaga para o próximo ano e levando nossa robótica ao nível internacional.",
+        "fotos_galeria": [
+            "imagens/premiação-2024-chile.jpeg",
+            "imagens/pista-2024.mp4"
+        ],
+        "conteudo_complementar": "As imagens a seguir detalham a construção dos nossos robôs. O robô de Resgate de Alto Risco que foi desenvolvidos com o kit alemão Fischertechnik. Já para a modalidade de Resgate no Plano, utilizamos o kit EST, uma réplica do LEGO EV3. As fotos mostram o processo de montagem e a calibragem dos sensores antes da competição.."
+    },
+    {
+        "titulo": "TJR Internacional 2025 Conquita do Primeiro lugar",
+        "data": "21 dezembro 2025",
+        "imagem_principal": "imagens/premiacao-2024-chile.jpeg",
+        "sobre_breve": "Equipe Olimpo conquista o primeiro lugar na modalidade Resgate de alto risco na TJR internacional.",
+        "objetivo": "Desenvolver dois robôs autônomo capaz de navegar em terrenos divergentes e resgatar vítimas.",
+        "conteudo_completo": "A Equipe Olimpo competiu na modalide resgate de alto risco na TJR: Resgate de Alto Risco. Saímos vitoriosos com a medalha de primeiro lugar. Além desses resultados, conquistando a vaga para o próximo ano que sera na argentina e levando nossa robótica ao nível internacional.",
+        "fotos_galeria": [
+            "imagens/robo-2025.jpeg",
+            "imagens/ajustes-programacao-2024.jpeg"
+        ],
+        "conteudo_complementar": "As imagens a seguir detalham a construção dos nossos robôs. O robô de Resgate de Alto Risco, utilizamos o kit EST, uma réplica do LEGO EV3. As fotos mostram o processo de montagem e a calibragem dos sensores antes da competição."
+    }
+]
