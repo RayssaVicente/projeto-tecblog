@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Competições - Olimpo Robótica</title>
+    <link rel="stylesheet" href="css/competicoes.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"></script>
+    <script src="competicao.js" defer></script>
+</head>
+
+<body>
+
+    <div id="area-cabecalho">
+        <div id="area-logo">
+            <h1>⚡ OLIMPO</h1>
+        </div>
+        <div id="area-menu">
+            <div id="area-menu">
+            <a href="index.html">Home</a>
+            <a href="competicoes.html">Competições</a>
+            <a href="projetos.html">Projetos</a>
+            <a href="contatos.html">Redes sociais</a>
+        </div>
+        </div>
+    </div>
+
+    <div id="area-principal">
+
+        <div id="area-postagens">
+
+            <div class="postagem">
+                            <h1 style="margin-bottom:20px; color:#003366 ; ">Competições de Robótica</h1>
+
+                <h2>TJR — Torneio Juvenil de Robótica</h2>
+                <img class="imagem-post" src="imagens/TJR.png" alt="TJR"  style="width: 45%;">
+                <p>O TJR é uma competição brasileira voltada para estudantes iniciantes e intermediários na robótica educacional.</p>
+                <h3>Modalidades:</h3>
+                <ul class="lista-modalidades">
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('tjr-resgate')">Resgate</a></li>
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('tjr-sumo')">Sumô de Robôs</a></li>
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('tjr-seguidor')">Seguidor de Linha</a></li>
+                </ul>
+            </div>
+
+            <div class="postagem">
+                <h2>OBR — Olimpíada Brasileira de Robótica</h2>
+                <img class="imagem-post" src="imagens/obr-2.png" alt="OBR"  style="width: 45%;">
+                <p>A OBR combina teoria e prática para estimular o ensino de ciência, tecnologia e programação.</p>
+                <h3>Modalidades:</h3>
+                <ul class="lista-modalidades">
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('obr-teorica')">Modalidade Teórica</a></li>
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('obr-pratica')">Robótica de Resgate (Arena)</a></li>
+                </ul>
+            </div>
+
+            <div class="postagem">
+                <h2>CPR — Competição Paraibana de Robótica</h2>
+                <img class="imagem-post" src="imagens/CompRobotica_Asset 3.png" alt="CPR"  style="width: 40%;">
+                <p>A CPR reúne equipes do estado da Paraíba para disputar desafios tecnológicos e promover a inovação.</p>
+                <h3>Modalidades:</h3>
+                <ul class="lista-modalidades">
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('cpr-sumo')">Sumô</a></li>
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('cpr-seguidor')">Seguidor de Linha</a></li>
+                </ul>
+            </div>
+
+            <div class="postagem">
+                <h2>FIRA — Federation of International Robot-soccer Association</h2>
+                <img class="imagem-post" src="imagens/fira.avif" alt="FIRA"  style="width: 40%;">
+                <p>A FIRA é uma competição internacional focada em robôs autônomos realizando tarefas complexas.</p>
+                <h3>Modalidades:</h3>
+                <ul class="lista-modalidades">
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('fira-futebol')">Robô Futebol</a></li>
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('fira-missao')">Missão Autônoma</a></li>
+                </ul>
+            </div>
+
+            <div class="postagem">
+                <h2>FIRST LEGO League (FLL)</h2>
+                <p>A FLL combina robótica, pesquisa científica e valores de cooperação utilizando kits LEGO.</p>
+                <h3>Avaliações:</h3>
+                <ul class="lista-modalidades">
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('fll-desafio')">Desafio do Robô</a></li>
+                    <li><a href="javascript:void(0)" onclick="abrirInfoModalidade('fll-projeto')">Projeto de Inovação</a></li>
+                </ul>
+            </div>
+
+        </div> <div id="area-lateral">
+            <div class="conteudo-lateral">
+                <h3>Sobre</h3>
+                <p class="texto-lateral">
+                    As competições desenvolvem habilidades em programação, engenharia e trabalho em equipe.
+                </p>
+            </div>
+        </div>
+
+    </div> <div id="rodape">
+        &copy; Equipe Olimpo de Robótica - Todos os direitos reservados
+    </div>
+
+    <div id="modal-info" class="modal-estilizado" style="display:none;">
+        <div class="modal-content">
+            <button class="btn-fechar" onclick="fecharModalInfo()">X</button>
+            <div id="conteudo-info">
+                </div>
+        </div>
+    </div>
+
+</body>
+</html>
